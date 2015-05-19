@@ -1,0 +1,16 @@
+h1 {
+	font-weight: 800;
+	font-size: xx-large;
+	font-family: sans-serif;
+	text-align: center;
+}
+.description {
+	max-width: 500px;
+	margin: 10px;
+	display: -webkit-inline-box;
+}
+.app {
+	display: -webkit-flex;
+	display: flex;
+}
+body { color: red; }
